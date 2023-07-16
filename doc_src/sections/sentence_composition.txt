@@ -14,6 +14,8 @@
 <!--i ["утвердительные предложения"]-->
 ## Утвердительные предложения 
 
+<div class="light_only"></div>
+
 ![](<!--path pict-->affirmative_sentence.png)
 
 I love my cat. It is raining outside.    

@@ -3,82 +3,490 @@
 [TOC]
 
 ----------------------------------------------------------------------------------------------------
-# Монофтонги (одиночные гласные)
+# Примечание
 
 Английские звуки **кардинально** отличаются от аналогичных русских.
 Представленные ниже объяснения на примере русских слов являются приблизительными. На них не следует 
 полагаться вообще, точное произношение следует искать в словарях поддерживающих произношение.
 
-Звук | Описание                                            | Примеры
------|-----------------------------------------------------|-------
- i  | Близок краткому звуку [и] в словах **и**грок, **и**кра, примерно между [и] и [ы] | fix [fiks], still [still], did [did]
- i: | Близок протяжному русскому звуку [и] в слове крас**и**вый|team [tiːm], leave [li:v], steel [sti:l]
- ɔ: | Несколько похож на протяжно произнесенный звук [o] в словах гр**о**мкий, п**о**лный| sport [spɔ:t], court [kɔ:t], ball [bɔ:l], floor [flɔ:]
- ɒ  | Напоминает короткий звук [о] в словах к**о**т, т**о**т  | shock [ʃɒk], lost [lɒst], top [tɒp]
- ɑ: | Несколько похож на протяжно произнесенный звук [а:| в словах г**а**лка, к**а**ска | star [stɑ:], March [mɑ:tʃ], car [ka:(r)]
- ʌ  | Сходен с русским звуком [а] в безударном положении к**а**мыш. Т.н. «скупое» [а] |run [rʌn], cup [kʌp], must [mʌst]
- ɜ:, ə: | Сходен с русским звуком [ё] в слове Г**ё**те, звук [ё] без согласной [й] | turn [tɜ:n], learn [lɜ:n], first [fɜ:st]
- ə  | Нейтральный безударный звук, как в словах гор**о**д, комн**а**т**а**, в**о**да \* |teacher ['tiːtʃə(r)], present  ['prez(ə)nt], seven ['sev(ə)n] 
- u: | Сходен с русским протяжно произнесенным [у:] в слове раз**у**мный |pool [pu:l], blue [blu:], do [du:]
- ʋ, u | Несколько похож на русский звук [у] в слове д**у**шный | foot [fʋt], put [pʋt], took [ tʊk ], stood [ stʊd ]
- æ  | Глубокое горловое [э] как в слове ц**е**нтр | bad [bæd], map [mæp], plan [plæn]
- e  | Близок русскому звуку [э] в слове **э**ти | set [set], present ['prez(ə)nt], best [best]
+----------------------------------------------------------------------------------------------------
+# Монофтонги (одиночные гласные)
+
+<span class="bolder">[i]</span> 
+
+Близок краткому звуку [и] в словах **и**грок, **и**кра, примерно между [и] и [ы].  
+
+Примеры: fix [fiks], still [still], did [did]
+
+<audio controls><source src="<!--path audio-->phonetics_short_i.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
 
 
-\* нейтральный звук можно представить как полное отсутствие гласно после согласной. Если немного 
+<span class="bolder">[i:]</span> 
+
+Близок протяжному русскому звуку [и] в слове крас**и**вый.  
+
+Примеры: team [tiːm], leave [li:v], steel [sti:l]
+
+<audio controls><source src="<!--path audio-->phonetics_long_i.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ɔ:]</span>
+
+Несколько похож на протяжно произнесенный звук [o] в словах гр**о**мкий, п**о**лный.
+
+Примеры: sport [spɔ:t], court [kɔ:t], ball [bɔ:l], floor [flɔ:]
+
+<audio controls><source src="<!--path audio-->phonetics_long_o.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ɒ]</span>
+
+Напоминает короткий звук [о] в словах к**о**т, т**о**т.
+
+Примеры: shock [ʃɒk], lost [lɒst], top [tɒp]
+
+<audio controls><source src="<!--path audio-->phonetics_short_o.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ɑ:]</span>
+
+Несколько похож на протяжно произнесенный звук [а:] в словах г**а**лка, к**а**ска.
+
+Примеры: star [stɑ:], March [mɑ:tʃ], car [ka:(r)]
+
+<audio controls><source src="<!--path audio-->phonetics_long_a.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ʌ]</span>
+
+Сходен с русским звуком [а] в безударном положении к**а**мыш. Т.н. «скупое» [а].
+
+Примеры: run [rʌn], cup [kʌp], must [mʌst]
+
+<audio controls><source src="<!--path audio-->phonetics_short_a.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ɜ:, ə:]</span>
+
+Сходен с русским звуком [ё] в слове Г**ё**те, звук [ё] без согласной [й].
+
+Примеры: turn [tɜ:n], first [fɜ:st], early ['ɜ:lı]
+
+<audio controls><source src="<!--path audio-->phonetics_o_uml.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ə]</span>
+
+Нейтральный безударный звук, как в словах гор**о**д, комн**а**т**а**, в**о**да. В английском языке
+этот звук называется *shwa*.
+
+Этот звук можно представить как полное отсутствие гласно после согласной. Если немного 
 продлить звучание перехода между согласными, то как раз и должен получиться нейтральный звук.
+
+Примеры: teach**er** ['tiːtʃə(r)], pres**e**nt  ['prez(ə)nt], sev**e**n ['sev(ə)n] 
+
+<audio controls><source src="<!--path audio-->phonetics_shwa.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[u:]</span>
+
+Сходен с русским протяжно произнесенным [у:] в слове раз**у**мный.
+
+Примеры: pool [pu:l], blue [blu:], do [du:]
+
+<audio controls><source src="<!--path audio-->phonetics_long_u.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ʋ, u]</span>
+
+Несколько похож на русский звук [у] в слове д**у**шный.
+
+Примеры: foot [fʋt], put [pʋt], took [tʊk]
+
+<audio controls><source src="<!--path audio-->phonetics_short_u.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[æ]</span>
+
+Глубокое горловое [э] как в слове ц**е**нтр.
+
+Примеры: bad [bæd], map [mæp], plan [plæn]
+
+<audio controls><source src="<!--path audio-->phonetics_frog.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[e]</span>
+
+Близок русскому звуку [э] в слове **э**ти.
+
+Примеры: set [set], vest [vest], best [best]
+
+
+<audio controls><source src="<!--path audio-->phonetics_e.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<!-- ^\s*([^|]+)\|\s*([^|]+)\|\s*([^|]+)$ -->
+
+<!-- \r\n<span class="bolder">[\1]</span>\r\n\r\n\2\.\r\n\r\nПримеры: \3\r\n\r\n<audio controls><source src="<!-- path audio- ->xxx.mp3" type="audio/mpeg">\r\nYour browser does not support the audio element.</audio>\r\n -->
 
 ----------------------------------------------------------------------------------------------------
 # Дифтонги (двойные гласные)
 
-Звук | Описание                                            | Примеры
------|-----------------------------------------------------|-------
- iə  | Ударный [и] + безударный [а] | here [hɪə(r)], cheer [tʃɪə(r)], near [nɪə(r)]
- ʊə  | Ударный [y] + безударный [а] | poor  [pʋə], cure [kjʊə(r)], pure [pjʊə(r)]
- ai  | Близок сочетанию русских звуков в словах д**ай**, ч**ай**ка | style [stail], line [lain], ice [ais]
- ei  | Сходен с сочетанием русских звуков в слове ш**ей**ка | fail [feil], take [teik], May [meı]
- ɔi  | Сходен с сочетанием русских звуков в словах стр**ой**, м**ой**ка | point [pɔint], choice [tʃɔis], oil [ɔil]
- aʊ  | Сходен с сочетанием русских звуков в словах п**ау**за, с**ау**на | ground [graʊnd], about [ə'baʋt], now [naʊ]
- əʊ  | Сходен с сочетанием русских звуков в слове кл**оун** | coach [kəʊtʃ], close [kləʋs], open ['əʊp(ə)n]
- eə  |  Ударный [э] + безударный [а] | care [keə(r)], fair [feə], air [eə(r)]
- 
+
+<span class="bolder">[iə]</span>
+
+Ударный [и] + безударный [а].
+
+Примеры: here [hɪə(r)], cheer [tʃɪə(r)], near [nɪə(r)]
+
+<audio controls><source src="<!--path audio-->phonetics_diphthong_ia.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ʊə]</span>
+
+Ударный [y] + безударный [а].
+
+Примеры: poor  [pʋə], cure [kjʊə(r)], pure [pjʊə(r)]
+
+<audio controls><source src="<!--path audio-->phonetics_diphthong_ua.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ai]</span>
+
+Близок сочетанию русских звуков в словах д**ай**, ч**ай**ка.
+
+Примеры: style [stail], line [lain], ice [ais]
+
+<audio controls><source src="<!--path audio-->phonetics_diphthong_ai.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ei]</span>
+
+Сходен с сочетанием русских звуков в слове ш**ей**ка.
+
+Примеры: fail [feil], take [teik], May [meı]
+
+<audio controls><source src="<!--path audio-->phonetics_diphthong_ei.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[ɔi]</span>
+
+Сходен с сочетанием русских звуков в словах стр**ой**, м**ой**ка.
+
+Примеры: point [pɔint], choice [tʃɔis], oil [ɔil]
+
+<audio controls><source src="<!--path audio-->phonetics_diphthong_oi.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+
+<span class="bolder">[aʊ]</span>
+
+Сходен с сочетанием русских звуков в словах п**ау**за, с**ау**на.
+
+Примеры: ground [graʊnd], about [ə'baʋt], now [naʊ]
+
+<audio controls><source src="<!--path audio-->phonetics_diphthong_au.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[əʊ]</span>
+
+Сходен с сочетанием русских звуков в слове кл**оун**.
+
+Примеры: coach [kəʊtʃ], close [kləʋs], open ['əʊp(ə)n]
+
+<audio controls><source src="<!--path audio-->phonetics_diphthong_ou.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[eə]</span>
+
+Ударный [э] + безударный [а].
+
+Примеры: care [keə(r)], fair [feə], air [eə(r)]
+
+
+<audio controls><source src="<!--path audio-->phonetics_diphthong_ea.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
 ----------------------------------------------------------------------------------------------------
 # Трифтонги (тройные гласные)
 
-Звук | Описание                                            | Примеры
------|-----------------------------------------------------|-------
- aiə | Дифтонг [ai] с нейтральным [ə] | fire ['faɪə], higher ['haɪə], quiet ['kwaıət]
- aʊə | Дифтонг [aʊ] с нейтральным [ə] | our ['aʋə], flower ['flaʊə], power ['paʊə]
- eiə | Дифтонг [ei] с нейтральным [ə] | player ['pleɪə]
- ɔiə | Дифтонг [ɔi] с нейтральным [ə] | employer [ɪm'plɔɪə], royal ['rɔɪəl]
- ʊə  | Дифтонг [əʊ] с нейтральным [ə] | slower [sləʋə]
- 
+
+<span class="bolder">[aiə]</span>
+
+Дифтонг [ai] с нейтральным [ə].
+
+Примеры: fire ['faɪə], higher ['haɪə], quiet ['kwaıət]
+
+<audio controls><source src="<!--path audio-->phonetics_triphthong_aie.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[aʊə]</span>
+
+Дифтонг [aʊ] с нейтральным [ə].
+
+Примеры: our ['aʋə], flower ['flaʊə], power ['paʊə]
+
+<audio controls><source src="<!--path audio-->phonetics_triphthong_aue.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[eiə]</span>
+
+Дифтонг [ei] с нейтральным [ə].
+
+Примеры: player ['pleɪə]
+
+<audio controls><source src="<!--path audio-->phonetics_triphthong_eie.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[ɔiə]</span>
+
+Дифтонг [ɔi] с нейтральным [ə].
+
+Примеры: employer [ɪm'plɔɪə], royal ['rɔɪəl]
+
+<audio controls><source src="<!--path audio-->phonetics_triphthong_oie.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[əʊə]</span>
+
+Дифтонг [əʊ] с нейтральным [ə].
+
+Примеры: slower [sləʋə]
+
+<audio controls><source src="<!--path audio-->phonetics_triphthong_oue.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
 ----------------------------------------------------------------------------------------------------
 # Согласные
 
-Звук | Описание                                            | Примеры
------|-----------------------------------------------------|-------
- p | Русский [п] с придыханием | play, apple, stop
- b | Примерно как русский [б]  | ball, table, job
- t | Русский [т] с придыханием | take, cat, stop
- d | Альвеолярный русский [д]  | do, said, freedom
- k | Русский [к] с придыханием | key, cook, sky
- g | Примерно как русский [г]  | go, dog, ago
- m | Примерно как русский [м]  | make, team, smile
- n | Альвеолярный русский [н]  | number, nine, only
- 1 | Альвеолярный русский [л]  | look, all, plan
- f | Примерно как русский [ф]  | finger, life, after
- v | Примерно как русский [в]  | have, very, every
- s | Примерно как русский [с]  | sea, fast, this
- z | Примерно как русский [з]  | zone, please, example [ıg'zɑ:mp(ə)l]
- ʃ | Примерно как русский [ш]  | shirt, action ['ækʃ(ə)n], English
- ʒ | Примерно как русский [жж] | pleasure ['pleʒə], massage ['mæsɑ:ʒ]
- h | Простой выдох, не русская [х] | have, hand, hold
- r | Сильно редуцированный русский [р], горловой | room, carry, fair
- j | Примерно как русский [й]  | yes, stupid 
- tʃ | Примерно как русский [ч] | change, lunch 
- dʒ | Звонкий вариант русского [ч], примерно как [дж] | age, June, bridge [brıdʒ]
- θ | Межзубный глухой | think, theatre
- ð | Межзубный звонкий | there, this, weather
- ŋ | Носовой звук, ни в коем случае не [нг]! | strong, English ['ıŋglıʃ]
- w | Примерно как русский [у]  | win, winter, quit [kwıt]
+
+<span class="bolder">[p]</span>
+
+Русский [п] с придыханием.
+
+Примеры: play, apple, stop
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_p.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[b]</span>
+
+Примерно как русский [б].
+
+Примеры: ball, table, job
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_b.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[t]</span>
+
+Русский [т] с придыханием.
+
+Примеры: take, cat, stop
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_t.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[d]</span>
+
+Альвеолярный русский [д].
+
+Примеры: do, said, freedom
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_d.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[k]</span>
+
+Русский [к] с придыханием.
+
+Примеры: key, cook, sky
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_k.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[g]</span>
+
+Примерно как русский [г].
+
+Примеры: go, dog, ago
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_g.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[m]</span>
+
+Примерно как русский [м].
+
+Примеры: make, team, smile
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_m.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[n]</span>
+
+Альвеолярный русский [н].
+
+Примеры: number, nine, only
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_n.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[l]</span>
+
+Альвеолярный русский [л].
+
+Примеры: look, all, plan
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_l.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[f]</span>
+
+Примерно как русский [ф].
+
+Примеры: finger, life, after
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_f.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[v]</span>
+
+Примерно как русский [в].
+
+Примеры: have, very, every
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_v.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[s]</span>
+
+Примерно как русский [с].
+
+Примеры: sea, fast, this
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_s.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[z]</span>
+
+Примерно как русский [з].
+
+Примеры: zone, please, example [ıg'zɑ:mp(ə)l]
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_z.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[ʃ]</span>
+
+Примерно как русский [ш].
+
+Примеры: shirt, action ['ækʃ(ə)n], English
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_sh.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[ʒ]</span>
+
+Примерно как русский [жж].
+
+Примеры: pleasure ['pleʒə], massage ['mæsɑ:ʒ]
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_zh.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[h]</span>
+
+Простой выдох, не русская [х].
+
+Примеры: have, hand, hold
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_h.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[r]</span>
+
+Сильно редуцированный русский [р], горловой.
+
+Примеры: room, carry, fair
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_r.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[j]</span>
+
+Примерно как русский [й].
+
+Примеры: yes, stupid 
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_j.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[tʃ]</span>
+
+Примерно как русский [ч].
+
+Примеры: change, lunch 
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_ch.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[dʒ]</span>
+
+Звонкий вариант русского [ч], примерно как [дж].
+
+Примеры: age, June, bridge [brıdʒ]
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_dj.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[θ]</span>
+
+Межзубный глухой.
+
+Примеры: think, theatre
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_th_dull.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[ð]</span>
+
+Межзубный звонкий.
+
+Примеры: there, this, weather
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_th_sound.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[ŋ]</span>
+
+Носовой звук, ни в коем случае не [нг]!.
+
+Примеры: strong, English ['ıŋglıʃ]
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_ng.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>
+
+<span class="bolder">[w]</span>
+
+Примерно как русский [у].
+
+Примеры: win, winter, quit [kwıt]
+
+<audio controls><source src="<!--path audio-->phonetics_consonant_w.mp3" type="audio/mpeg">
+Your browser does not support the audio element.</audio>

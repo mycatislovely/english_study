@@ -21,7 +21,8 @@
             "markers": ["path"],
             "paths": {
                 "resource_path": "doc/",
-                "pict": "doc/pict/"
+                "pict": "doc/pict/",
+                "audio": "doc/audio/"
             }
         },
         "page-flows": {

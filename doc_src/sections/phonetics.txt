@@ -130,7 +130,7 @@ Your browser does not support the audio element.</audio>
 
 Близок русскому звуку [э] в слове **э**ти.
 
-Примеры: set [set], vest [vest], best [best]
+Примеры: set [set], west [west], best [best]
 
 
 <audio controls><source src="<!--path audio-->phonetics_e.mp3" type="audio/mpeg">

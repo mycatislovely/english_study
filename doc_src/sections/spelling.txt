@@ -6,7 +6,7 @@
 <!--i ["алфавит"]-->
 # Английский алфавит
 
-<div class="tableHederless"></div>
+<div class="tableHeaderless"></div>
 
 | | | | | | | | |   
 |----|----|----|----|----|----|----|----|     

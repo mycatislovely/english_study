@@ -1,4 +1,8 @@
 
+html {
+    font-size: 22px;
+}
+
 div.noBullets + ul {
     list-style-type: none;
 }

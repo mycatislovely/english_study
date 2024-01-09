@@ -136,10 +136,6 @@ Your browser does not support the audio element.</audio>
 <audio controls><source src="<!--path audio-->phonetics_e.mp3" type="audio/mpeg">
 Your browser does not support the audio element.</audio>
 
-<!-- ^\s*([^|]+)\|\s*([^|]+)\|\s*([^|]+)$ -->
-
-<!-- \r\n<span class="bolder">[\1]</span>\r\n\r\n\2\.\r\n\r\nПримеры: \3\r\n\r\n<audio controls><source src="<!-- path audio- ->xxx.mp3" type="audio/mpeg">\r\nYour browser does not support the audio element.</audio>\r\n -->
-
 ----------------------------------------------------------------------------------------------------
 # Дифтонги (двойные гласные)
 

@@ -1,4 +1,4 @@
-<!--VARIABLES {"title": "Словарь", "SORT_ORDER": "020", "code": "vocabulary"}-->
+<!--VARIABLES {"title": "Словарь", "SORT_ORDER": "200", "code": "vocabulary"}-->
 
 <script>
 var dicts = [

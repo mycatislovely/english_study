@@ -1,36 +1,111 @@
 {
   "readme.html": [],
-  "doc/content/sections/verbs.html": [],
-  "doc/content/sections/pronouns.html": [
+  "doc/content/sections/vocabulary.html": [],
+  "doc/content/sections/lexis.html": [
     {
-      "entry": "this",
-      "link": "sections/pronouns.html#index_entry_i_1",
-      "title": "\u041c\u0435\u0441\u0442\u043e\u0438\u043c\u0435\u043d\u0438\u044f"
+      "entry": "\u043f\u0440\u0435\u0434\u043b\u043e\u0433\u0438 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
+      "link": "sections/lexis.html#index_entry_i_1",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
     },
     {
-      "entry": "these",
-      "link": "sections/pronouns.html#index_entry_i_1",
-      "title": "\u041c\u0435\u0441\u0442\u043e\u0438\u043c\u0435\u043d\u0438\u044f"
+      "entry": "\u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u043f\u0440\u0435\u0434\u043b\u043e\u0433\u0438",
+      "link": "sections/lexis.html#index_entry_i_1",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
     },
     {
-      "entry": "that",
-      "link": "sections/pronouns.html#index_entry_i_1",
-      "title": "\u041c\u0435\u0441\u0442\u043e\u0438\u043c\u0435\u043d\u0438\u044f"
+      "entry": "\u043f\u0440\u0435\u0434\u043b\u043e\u0433\u0438 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f",
+      "link": "sections/lexis.html#index_entry_i_2",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
     },
     {
-      "entry": "those",
-      "link": "sections/pronouns.html#index_entry_i_1",
-      "title": "\u041c\u0435\u0441\u0442\u043e\u0438\u043c\u0435\u043d\u0438\u044f"
+      "entry": "\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f, \u043f\u0440\u0435\u0434\u043b\u043e\u0433\u0438",
+      "link": "sections/lexis.html#index_entry_i_2",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
     },
     {
-      "entry": "here",
-      "link": "sections/pronouns.html#index_entry_i_1",
-      "title": "\u041c\u0435\u0441\u0442\u043e\u0438\u043c\u0435\u043d\u0438\u044f"
+      "entry": "\u0432\u0440\u0435\u043c\u044f, \u0443\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
+      "link": "sections/lexis.html#index_entry_i_3",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
     },
     {
-      "entry": "there",
-      "link": "sections/pronouns.html#index_entry_i_1",
-      "title": "\u041c\u0435\u0441\u0442\u043e\u0438\u043c\u0435\u043d\u0438\u044f"
+      "entry": "\u043c\u043e\u0434\u0430\u043b\u044c\u043d\u044b\u0435 \u0433\u043b\u0430\u0433\u043e\u043b\u044b",
+      "link": "sections/lexis.html#index_entry_i_4",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "wanna",
+      "link": "sections/lexis.html#index_entry_i_5",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "going to, to be",
+      "link": "sections/lexis.html#index_entry_i_6",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "gonna",
+      "link": "sections/lexis.html#index_entry_i_7",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u043f\u0440\u044f\u043c\u043e\u0435 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435",
+      "link": "sections/lexis.html#index_entry_i_8",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u043a\u043e\u0441\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435",
+      "link": "sections/lexis.html#index_entry_i_8",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043f\u0440\u044f\u043c\u043e\u0435",
+      "link": "sections/lexis.html#index_entry_i_8",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043a\u043e\u0441\u0432\u0435\u043d\u043d\u043e\u0435",
+      "link": "sections/lexis.html#index_entry_i_8",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u0433\u043b\u0430\u0433\u043e\u043b\u044b \u0432\u043e\u0441\u043f\u0440\u0438\u044f\u0442\u0438\u044f",
+      "link": "sections/lexis.html#index_entry_i_9",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u0432\u043e\u0441\u043f\u0440\u0438\u044f\u0442\u0438\u044f, \u0433\u043b\u0430\u0433\u043e\u043b\u044b",
+      "link": "sections/lexis.html#index_entry_i_9",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u0437\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0432\u043e\u0441\u043f\u0440\u0438\u044f\u0442\u0438\u0435",
+      "link": "sections/lexis.html#index_entry_i_10",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u0441\u043b\u0443\u0445\u043e\u0432\u043e\u0435 \u0432\u043e\u0441\u043f\u0440\u0438\u044f\u0442\u0438\u0435",
+      "link": "sections/lexis.html#index_entry_i_11",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u0433\u043b\u0430\u0433\u043e\u043b\u044b \u0433\u043e\u0432\u043e\u0440\u0435\u043d\u0438\u044f",
+      "link": "sections/lexis.html#index_entry_i_12",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u0433\u043e\u0432\u043e\u0440\u0435\u043d\u0438\u0435, \u0433\u043b\u0430\u0433\u043e\u043b\u044b",
+      "link": "sections/lexis.html#index_entry_i_12",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u0441\u0442\u0440\u0430\u043d\u044b",
+      "link": "sections/lexis.html#index_entry_i_13",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+    },
+    {
+      "entry": "\u043a\u043b\u0438\u043c\u0430\u0442",
+      "link": "sections/lexis.html#index_entry_i_14",
+      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
     }
   ],
   "doc/content/sections/word_composition.html": [
@@ -200,6 +275,19 @@
       "title": "\u0421\u043b\u043e\u0432\u043e\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u0435"
     }
   ],
+  "doc/content/sections/spelling.html": [
+    {
+      "entry": "\u0430\u043b\u0444\u0430\u0432\u0438\u0442",
+      "link": "sections/spelling.html#index_entry_i_1",
+      "title": "\u041e\u0440\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+    },
+    {
+      "entry": "\u0431\u0443\u043a\u0432\u043e\u0441\u043e\u0447\u0435\u0442\u0430\u043d\u0438\u044f",
+      "link": "sections/spelling.html#index_entry_i_2",
+      "title": "\u041e\u0440\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+    }
+  ],
+  "doc/content/sections/phonetics.html": [],
   "doc/content/sections/sentence_composition.html": [
     {
       "entry": "\u0443\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
@@ -347,156 +435,36 @@
       "title": "\u041f\u043e\u0441\u0442\u0440\u043e\u0435\u043d\u0438\u0435 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0439"
     }
   ],
-  "doc/content/sections/spelling.html": [
-    {
-      "entry": "\u0430\u043b\u0444\u0430\u0432\u0438\u0442",
-      "link": "sections/spelling.html#index_entry_i_1",
-      "title": "\u041e\u0440\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
-    },
-    {
-      "entry": "\u0431\u0443\u043a\u0432\u043e\u0441\u043e\u0447\u0435\u0442\u0430\u043d\u0438\u044f",
-      "link": "sections/spelling.html#index_entry_i_2",
-      "title": "\u041e\u0440\u0444\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
-    }
-  ],
-  "doc/content/sections/vocabulary.html": [],
-  "doc/content/sections/lexis.html": [
+  "doc/content/sections/grammar.html": [
     {
       "entry": "this",
-      "link": "sections/lexis.html#index_entry_i_1",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+      "link": "sections/grammar.html#index_entry_i_1",
+      "title": "\u0413\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0430"
     },
     {
       "entry": "these",
-      "link": "sections/lexis.html#index_entry_i_1",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+      "link": "sections/grammar.html#index_entry_i_1",
+      "title": "\u0413\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0430"
     },
     {
       "entry": "that",
-      "link": "sections/lexis.html#index_entry_i_1",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+      "link": "sections/grammar.html#index_entry_i_1",
+      "title": "\u0413\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0430"
     },
     {
       "entry": "those",
-      "link": "sections/lexis.html#index_entry_i_1",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+      "link": "sections/grammar.html#index_entry_i_1",
+      "title": "\u0413\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0430"
     },
     {
       "entry": "here",
-      "link": "sections/lexis.html#index_entry_i_1",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+      "link": "sections/grammar.html#index_entry_i_1",
+      "title": "\u0413\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0430"
     },
     {
       "entry": "there",
-      "link": "sections/lexis.html#index_entry_i_1",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u043f\u0440\u0435\u0434\u043b\u043e\u0433\u0438 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f",
-      "link": "sections/lexis.html#index_entry_i_2",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u043f\u0440\u0435\u0434\u043b\u043e\u0433\u0438",
-      "link": "sections/lexis.html#index_entry_i_2",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u043f\u0440\u0435\u0434\u043b\u043e\u0433\u0438 \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f",
-      "link": "sections/lexis.html#index_entry_i_3",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f, \u043f\u0440\u0435\u0434\u043b\u043e\u0433\u0438",
-      "link": "sections/lexis.html#index_entry_i_3",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0432\u0440\u0435\u043c\u044f, \u0443\u043a\u0430\u0437\u0430\u043d\u0438\u0435",
-      "link": "sections/lexis.html#index_entry_i_4",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u043c\u043e\u0434\u0430\u043b\u044c\u043d\u044b\u0435 \u0433\u043b\u0430\u0433\u043e\u043b\u044b",
-      "link": "sections/lexis.html#index_entry_i_5",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "wanna",
-      "link": "sections/lexis.html#index_entry_i_6",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "going to, to be",
-      "link": "sections/lexis.html#index_entry_i_7",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "gonna",
-      "link": "sections/lexis.html#index_entry_i_8",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u043f\u0440\u044f\u043c\u043e\u0435 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435",
-      "link": "sections/lexis.html#index_entry_i_9",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u043a\u043e\u0441\u0432\u0435\u043d\u043d\u043e\u0435 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435",
-      "link": "sections/lexis.html#index_entry_i_9",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043f\u0440\u044f\u043c\u043e\u0435",
-      "link": "sections/lexis.html#index_entry_i_9",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043a\u043e\u0441\u0432\u0435\u043d\u043d\u043e\u0435",
-      "link": "sections/lexis.html#index_entry_i_9",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0433\u043b\u0430\u0433\u043e\u043b\u044b \u0432\u043e\u0441\u043f\u0440\u0438\u044f\u0442\u0438\u044f",
-      "link": "sections/lexis.html#index_entry_i_10",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0432\u043e\u0441\u043f\u0440\u0438\u044f\u0442\u0438\u044f, \u0433\u043b\u0430\u0433\u043e\u043b\u044b",
-      "link": "sections/lexis.html#index_entry_i_10",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0437\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0432\u043e\u0441\u043f\u0440\u0438\u044f\u0442\u0438\u0435",
-      "link": "sections/lexis.html#index_entry_i_11",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0441\u043b\u0443\u0445\u043e\u0432\u043e\u0435 \u0432\u043e\u0441\u043f\u0440\u0438\u044f\u0442\u0438\u0435",
-      "link": "sections/lexis.html#index_entry_i_12",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0433\u043b\u0430\u0433\u043e\u043b\u044b \u0433\u043e\u0432\u043e\u0440\u0435\u043d\u0438\u044f",
-      "link": "sections/lexis.html#index_entry_i_13",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0433\u043e\u0432\u043e\u0440\u0435\u043d\u0438\u0435, \u0433\u043b\u0430\u0433\u043e\u043b\u044b",
-      "link": "sections/lexis.html#index_entry_i_13",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u0441\u0442\u0440\u0430\u043d\u044b",
-      "link": "sections/lexis.html#index_entry_i_14",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
-    },
-    {
-      "entry": "\u043a\u043b\u0438\u043c\u0430\u0442",
-      "link": "sections/lexis.html#index_entry_i_15",
-      "title": "\u041b\u0435\u043a\u0441\u0438\u043a\u0430"
+      "link": "sections/grammar.html#index_entry_i_1",
+      "title": "\u0413\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0430"
     }
-  ],
-  "doc/content/sections/phonetics.html": [],
-  "doc/content/sections/grammar.html": []
+  ]
 }

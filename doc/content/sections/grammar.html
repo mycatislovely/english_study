@@ -11,6 +11,7 @@
 
 <link rel="stylesheet" type="text/css" href="../../layout/flex.css">
 <link rel="stylesheet" type="text/css" href="../../custom.css">
+<script  src="../../review.js"></script>
 </head>
 <body>
 
@@ -39,6 +40,7 @@ src="../../layout/pict/previous_page_h21px.png" alt="Back"></a>
 <a href="word_composition.html" title="Next: Словообразование"><img class="headerNavArrows"
 src="../../layout/pict/next_page_h21px.png" alt="Next"></a>
 
+<span id="reviewToggler" class="header_image" onclick="toggleReview();" title="Скрыть/показать ответы"></span>
 
 <span class="headerTitle">Грамматика</span>
 
@@ -91,8 +93,8 @@ src="../../layout/pict/next_page_h21px.png" alt="Next"></a>
 <thead>
 <tr>
 <th>Лицо</th>
-<th>ед.ч.</th>
-<th>мн.ч.</th>
+<th>Ед.ч.</th>
+<th>Мн.ч.</th>
 </tr>
 </thead>
 <tbody>
@@ -119,19 +121,19 @@ src="../../layout/pict/next_page_h21px.png" alt="Next"></a>
 Например, мы не говорим "я есть врач", а говорим "я врач".
 В английском языке глагол <strong>to be</strong> присутствует всегда.</p>
 </div>
-<p>I am a teacher &mdash; <em>Я учитель.</em>              <br />
-We are free &mdash; <em>Мы свободны.</em>      </p>
-<p>You are a doctor? &mdash; <em>Ты/Вы доктор?</em>     <br />
-You are students? &mdash; <em>Вы студенты?</em></p>
-<p>My cat is cute &mdash; <em>Мой кот милый.</em>   <br />
-He is also naughty &mdash; <em>Он также непослушный.</em>    <br />
-The trees are green &mdash; <em>Деревья зеленые.</em>    <br />
-They are also tall &mdash; <em>Они также высокие.</em>     </p>
+<p>I <strong>am</strong> a teacher. &mdash; <em>Я учитель.</em>              <br />
+We <strong>are</strong> free. &mdash; <em>Мы свободны.</em>      </p>
+<p>You <strong>are</strong> a doctor? &mdash; <em>Ты/Вы доктор?</em>     <br />
+You <strong>are</strong> students? &mdash; <em>Вы студенты?</em></p>
+<p>My cat <strong>is</strong> cute. &mdash; <em>Мой кот милый.</em>   <br />
+He <strong>is</strong> also naughty. &mdash; <em>Он также непослушный.</em>    <br />
+The trees <strong>are</strong> green. &mdash; <em>Деревья зеленые.</em>    <br />
+They <strong>are</strong> also tall. &mdash; <em>Они также высокие.</em>     </p>
 <hr />
 <h1 id="_1">Личные местоимения</h1>
 <p>Существительные в английском языке не склоняются по падежам. Смысл падежных форм передается как 
 правило предлогами. Однако у английских местоимений имеются падежные формы, но только две:
-именительный падеж и косвенный падеж &mdash; все остальные падежи.</p>
+<em>именительный</em> падеж и <em>косвенный</em> падеж, т.е. все остальные падежи.</p>
 <table>
 <thead>
 <tr>
@@ -203,9 +205,9 @@ They are also tall &mdash; <em>Они также высокие.</em>     </p>
 <p>Is this cat <strong>mine</strong>? No he is not. He is <strong>mine</strong>.&mdash; <em>Этот кот <strong>мой</strong>? Нет, он не твой. Он <strong>мой</strong>.</em></p>
 <p>This is <strong>my</strong> backpack. — whose backpack? <strong>Mine</strong>. &mdash; <em>Это <strong>мой</strong> рюкзак. — рюкзак чей? <strong>Мой</strong>.</em> </p>
 <p>This house is now <strong>yours</strong>. &mdash; <em>Этот дом теперь <strong>твой/ваш</strong>.</em> </p>
-<p>My hat is blue and <strong>your</strong> hat is red =&gt; My hat is blue and <strong>yours</strong> is red.  <br />
-<em>Моя кепка голубая, а <strong>твоя</strong> кепка красная =&gt; Моя кепка голубая, а <strong>твоя</strong> – красная.</em> </p>
-<p><strong>He</strong> is in the kitchen, please call <strong>him</strong>, I have found <strong>his</strong> watch &mdash; <em><strong>Он</strong> на кухне, 
+<p>My hat is blue and <strong>your</strong> hat is red. &mdash; My hat is blue and <strong>yours</strong> is red.  <br />
+<em>Моя кепка голубая, а <strong>твоя</strong> кепка красная. &mdash; Моя кепка голубая, а <strong>твоя</strong> – красная.</em> </p>
+<p><strong>He</strong> is in the kitchen, please call <strong>him</strong>, I have found <strong>his</strong> watch. &mdash; <em><strong>Он</strong> на кухне, 
 пожалуйста, позови <strong>его</strong>, я нашла <strong>его</strong> часы.</em></p>
 <hr />
 <p><a name="index_entry_i_1"></a></p>
@@ -237,10 +239,10 @@ They are also tall &mdash; <em>Они также высокие.</em>     </p>
 <p>Приведенные выше слова могут использоваться в качестве объектов (например, подлежащих или 
 дополнений) и определений, например: </p>
 <ul>
-<li><strong>This</strong> is my cat &mdash; <em><strong>Это</strong> (есть) мой кот.</em></li>
-<li><strong>Those</strong> trees are green &mdash; <em><strong>Те</strong> деревья (есть) зеленые.</em></li>
-<li>I don't like <strong>these</strong> apples &mdash; <em>Мне не нравятся <strong>эти</strong> яблоки.</em></li>
-<li>I don't like <strong>these</strong> &mdash; <em>Мне не нравится <strong>это</strong> (что-то, чего много и оно здесь).</em></li>
+<li><strong>This</strong> is my cat. &mdash; <em><strong>Это</strong> (есть) мой кот.</em></li>
+<li><strong>Those</strong> trees are green. &mdash; <em><strong>Те</strong> деревья (есть) зеленые.</em></li>
+<li>I don't like <strong>these</strong> apples. &mdash; <em>Мне не нравятся <strong>эти</strong> яблоки.</em></li>
+<li>I don't like <strong>these</strong>. &mdash; <em>Мне не нравится <strong>это</strong> (что-то, чего много и оно здесь).</em></li>
 </ul>
 <p>Указание места: </p>
 <ul>
@@ -480,6 +482,12 @@ They are also tall &mdash; <em>Они также высокие.</em>     </p>
 <td>worse</td>
 <td>the worst</td>
 <td>плохой &mdash; хуже &mdash; наихудший</td>
+</tr>
+<tr>
+<td>far</td>
+<td>farther, further</td>
+<td>the farthest, furthest</td>
+<td>дальний &mdash; дальше &mdash; самый дальний</td>
 </tr>
 </tbody>
 </table>

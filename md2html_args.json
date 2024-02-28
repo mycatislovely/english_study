@@ -20,7 +20,9 @@
         "variables": {
             "html_lang": "ru",
             "show_source_link": true,
-            "theme": "dark"
+            "theme": "dark",
+            "link_js": [{"src": "review.js", "defer": false}],
+            "controls": ["<span id=\"reviewToggler\" class=\"header_image\" onclick=\"toggleReview();\" title=\"Скрыть/показать ответы\"></span>"]
         },
         "page-variables": {},
         "relative-paths": {
@@ -52,6 +54,7 @@
                     "index-cache-relative": true, "letters": true, "letters-block": true,
                     "add-link-css": ["doc/layout/index.css"] }
         },
-        "page-links": { "markers": ["page"] }
+        "page-links": { "markers": ["page"] },
+        "replace": [{ "markers": ["rv"], "replace-with": "<span class=\"rv\">${1}</span>" }]
     }
 }

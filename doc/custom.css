@@ -21,3 +21,87 @@ strong {
     float: right; 
     margin: 0 0 25px 25px;
 }
+
+.rv {
+  background-color: #616f91;
+}
+
+.rv.review_is_on {
+  cursor: pointer;
+}
+
+#reviewToggler {
+    display: inline-block;
+    position: relative;
+    width: 41px;
+    height: 30px;
+    overflow: hidden;
+    cursor: pointer;
+    top: 7px;
+    margin-left: 2px;
+}
+
+#reviewToggler::before {
+    content: url("pict/eyes_spline.png"); 
+    position: absolute;
+} 
+
+.reviewTogglerClass::before {
+    content: url("pict/eyes_spline.png");
+    width: 41px;
+    overflow: hidden;
+    display: inline-block;
+    margin-bottom: -12px;
+}
+ 
+#reviewToggler::before {
+    left: 0;
+}
+
+#reviewToggler.reviewHidden::before {
+    left: -41px;
+}
+
+.hidden_review {
+    visibility: hidden;
+}
+
+.hidden_review::before {
+    content: url("pict/closed_eye.png"); 
+    position: absolute;
+    cursor: pointer;
+    visibility: initial;
+    margin-left: 5px;
+} 
+
+.th {
+    font-weight: bold;
+    background-color: #e9f0f2;
+}
+
+p.fn, p.fn2 {
+    font-size: 0.889rem;
+}
+
+p.fn {
+    margin-top: 25px;
+}
+
+p.fn:before {
+  content: '';
+  width: 150px;
+  height: 5px;
+  border-top: solid black 1px;
+  display: block;
+}
+
+div.admonition.footnote {
+    border: none;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+div.admonition.footnote>* {
+    margin-left: 0;
+    margin-right: 0;
+}

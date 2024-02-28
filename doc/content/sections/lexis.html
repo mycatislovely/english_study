@@ -11,6 +11,7 @@
 
 <link rel="stylesheet" type="text/css" href="../../layout/flex.css">
 <link rel="stylesheet" type="text/css" href="../../custom.css">
+<script  src="../../review.js"></script>
 </head>
 <body>
 
@@ -39,6 +40,7 @@ src="../../layout/pict/previous_page_h21px.png" alt="Back"></a>
 <a href="vocabulary.html" title="Next: Словарь"><img class="headerNavArrows"
 src="../../layout/pict/next_page_h21px.png" alt="Next"></a>
 
+<span id="reviewToggler" class="header_image" onclick="toggleReview();" title="Скрыть/показать ответы"></span>
 
 <span class="headerTitle">Лексика</span>
 
@@ -77,18 +79,21 @@ src="../../layout/pict/next_page_h21px.png" alt="Next"></a>
 
 <div class="toc">
 <ul>
-<li><a href="#_1">Предлоги</a><ul>
-<li><a href="#_2">Предлоги местоположения</a></li>
-<li><a href="#_3">Предлоги направления</a></li>
+<li><a href="#_1">Извинения</a></li>
+<li><a href="#_2">Количества</a></li>
+<li><a href="#_3">Степени признаков</a></li>
+<li><a href="#_4">Предлоги</a><ul>
+<li><a href="#_5">Предлоги местоположения</a></li>
+<li><a href="#_6">Предлоги направления</a></li>
 </ul>
 </li>
-<li><a href="#_4">Указание времени</a><ul>
-<li><a href="#_5">Текущее время</a></li>
-<li><a href="#_6">Текущая дата</a></li>
-<li><a href="#_7">Произвольные дата и время</a></li>
+<li><a href="#_7">Указание времени</a><ul>
+<li><a href="#_8">Текущее время</a></li>
+<li><a href="#_9">Текущая дата</a></li>
+<li><a href="#_10">Произвольные дата и время</a></li>
 </ul>
 </li>
-<li><a href="#_8">Модальные глаголы</a><ul>
+<li><a href="#_11">Модальные глаголы</a><ul>
 <li><a href="#can">Глагол "Can"</a></li>
 <li><a href="#may">Глагол "May"</a></li>
 <li><a href="#must">Глагол "Must"</a></li>
@@ -96,27 +101,107 @@ src="../../layout/pict/next_page_h21px.png" alt="Next"></a>
 <li><a href="#would-like">Глагол "would like"</a></li>
 <li><a href="#need">Глагол "need"</a></li>
 <li><a href="#let">Глагол "let"</a></li>
-<li><a href="#_9">Другие глаголы со значением модальности</a></li>
+<li><a href="#_12">Другие глаголы со значением модальности</a></li>
 </ul>
 </li>
 <li><a href="#to-be-going-to">Выражение "to be going to"</a><ul>
-<li><a href="#_10">Прямое и косвенное дополнения</a></li>
+<li><a href="#_13">Прямое и косвенное дополнения</a></li>
 </ul>
 </li>
-<li><a href="#_11">Глаголы восприятия</a><ul>
-<li><a href="#_12">Зрительное восприятие</a></li>
-<li><a href="#_13">Восприятие на слух</a></li>
+<li><a href="#_14">Глаголы состояния</a></li>
+<li><a href="#_15">Глаголы восприятия</a><ul>
+<li><a href="#_16">Зрительное восприятие</a></li>
+<li><a href="#_17">Восприятие на слух</a></li>
 </ul>
 </li>
-<li><a href="#_14">Глаголы говорения</a></li>
-<li><a href="#_15">Страны</a></li>
-<li><a href="#_16">Климат</a></li>
+<li><a href="#_18">Глаголы говорения</a></li>
+<li><a href="#_19">Страны</a></li>
+<li><a href="#_20">Климат</a></li>
 </ul>
 </div>
 <hr />
-<h1 id="_1">Предлоги</h1>
+<h1 id="_1">Извинения</h1>
+<p>I'm sorry. &mdash; Простите/извините. Используется после причинения неудобства, а также при 
+соболезновании. sorry &mdash; <em>буквально</em> сожалеющий.</p>
+<p>&mdash; My dog died yesterday. &mdash; Моя собака вчера умерла. <br />
+&mdash; I'm sorry. &mdash; Мне очень жаль.   </p>
+<p>Excuse me &mdash; извините (используется перед причинением неудобства).  </p>
+<p>Excuse me, can you give me your pen please? &mdash; Извините, можете дать мне свою ручку.</p>
+<hr />
+<h1 id="_2">Количества</h1>
+<p>Quantity ['kwɒntıtı] &mdash; количество (quality ['kwɒlıtı] &mdash; качество).</p>
+<p><img src="../../pict/quantity.png" class="floatRight" /></p>
+
+<table>
+<thead>
+<tr>
+<th>Количество</th>
+<th>Неисчислимого</th>
+<th>Исчисляемого</th>
+<th>Неважно чего</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Много</td>
+<td>much</td>
+<td>many</td>
+<td>a lot of</td>
+</tr>
+<tr>
+<td>Мало</td>
+<td>little</td>
+<td>few</td>
+<td>&mdash;</td>
+</tr>
+<tr>
+<td>Немного</td>
+<td>a  little</td>
+<td>a few</td>
+<td>&mdash;</td>
+</tr>
+</tbody>
+</table>
+<p>When I get older losing may hair <strong>many</strong> years from now... &mdash; Когда я стану старше, потеряю волосы 
+<strong>много</strong> лет спустя...</p>
+<p>Yes, I saw a rainbow ['reınbəʋ] <strong>a few</strong> days ago. &mdash; Да, я видел радугу <strong>несколько</strong> (немного)
+дней назад.</p>
+<p>I had <strong>much</strong> money and I bought <strong>a lot</strong> of green cucumbers ['kju:kʌmbəs]. &mdash; У меня было <strong>много</strong> 
+денег и я купил <strong>много</strong> зеленых огурцов.</p>
+<p>There was <strong>little</strong> rain in the summer so we got <strong>few</strong> apples. &mdash; Летом было <strong>мало</strong> дождей,
+поэтому мы собрали <strong>мало</strong> яблок.</p>
+<p>Can you please speak <strong>a little</strong> bit slower? &mdash; Можешь (пожалуйста) говорить <strong>немного</strong> медленнее?</p>
+<p style="clear: both;"></p>
+
+<hr />
+<h1 id="_3">Степени признаков</h1>
+<p>Рассмотрим наречия, обозначающие степень признака. </p>
+<p>very &mdash; очень <br />
+not very &mdash; не очень <br />
+quite [kwaıt] &mdash; довольно (таки), достаточно   <br />
+enough [ı'nʌf] &mdash; достаточно   <br />
+relatively ['relətıvlı] &mdash; относительно      </p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>У слова quite существуют похожие по написанию слова:</p>
+<ul>
+<li>quit [kwıt] &mdash; уходить, увольняться;</li>
+<li>quiet ['kwaıət] &mdash; тихий, спокойный.</li>
+</ul>
+</div>
+<p>My apartment is not very big, but it's comfortable enough. &mdash; Моя квартира не очень большая, но 
+она достаточно комфортная. </p>
+<p>I have enough money to buy a car. &mdash; У меня достаточно денег, чтобы купить машину.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Слово enough может означать и степень признака, и оценку количества. В первом случае оно 
+следует после признака, а во втором перед количеством.</p>
+</div>
+<p>My cat is relatively young. &mdash; Мой кот относительно молод.</p>
+<hr />
+<h1 id="_4">Предлоги</h1>
 <p><a name="index_entry_i_1"></a></p>
-<h2 id="_2">Предлоги местоположения</h2>
+<h2 id="_5">Предлоги местоположения</h2>
 <p><img src="../../pict/location_preposition.png" class="floatRight" /></p>
 
 <div class="noBullets"></div>
@@ -135,7 +220,7 @@ src="../../layout/pict/next_page_h21px.png" alt="Next"></a>
 <li><strong>there, over there</strong> &mdash; там (где-то там)</li>
 </ul>
 <p><a name="index_entry_i_2"></a></p>
-<h2 id="_3">Предлоги направления</h2>
+<h2 id="_6">Предлоги направления</h2>
 <div class="noBullets"></div>
 
 <ul>
@@ -147,7 +232,7 @@ src="../../layout/pict/next_page_h21px.png" alt="Next"></a>
 
 <hr />
 <p><a name="index_entry_i_3"></a></p>
-<h1 id="_4">Указание времени</h1>
+<h1 id="_7">Указание времени</h1>
 <table>
 <thead>
 <tr>
@@ -190,58 +275,56 @@ src="../../layout/pict/next_page_h21px.png" alt="Next"></a>
 </tr>
 </tbody>
 </table>
-<p>(The) last time &mdash; <em>в прошлый раз</em>                       <br />
-(The) next time &mdash; <em>в следующий раз</em>             <br />
-all days long &mdash; <em>все дни напролет</em>      </p>
-<h2 id="_5">Текущее время</h2>
-<p>in the morning &mdash; утром<br />
-at noon &mdash; в полдень
-in the afternoon &mdash; днем (во второй половине дня) <br />
-in the evening &mdash; вечером <br />
-at night &mdash; ночью<br />
-at midnight &mdash; в полночь</p>
+<p>(The) next time &mdash; <span class="rv"><em>в следующий раз</em></span>             <br />
+(The) last time &mdash; <span class="rv"><em>в прошлый раз</em>  </span>                     <br />
+all days long &mdash; <span class="rv"><em>все дни напролет</em> </span>     </p>
+<h2 id="_8">Текущее время</h2>
+<p>in the morning &mdash; <span class="rv">утром</span><br />
+at noon &mdash; <span class="rv">в полдень</span>
+in the afternoon &mdash; <span class="rv">днем (во второй половине дня)</span><br />
+in the evening &mdash; <span class="rv">вечером</span> <br />
+at night &mdash; <span class="rv">ночью</span> 
+at midnight &mdash; <span class="rv">в полночь</span></p>
 <p>What's the time? &mdash; Сколько времени?         <br />
-It's nine twenty five &mdash; девять двадцать пять (должно быть понятно из контекста утра или вечера). </p>
+It's nine twenty five &mdash; <span class="rv">девять двадцать пять</span> (должно быть понятно из контекста утра или вечера). </p>
 <p>Обозначение времени различается на дневное <strong>AM</strong> и вечернее <strong>PM</strong>.   </p>
 <p>It's 10:15 <strong>AM</strong> (ten fifteen) &mdash; 10:15 утра   <br />
 It's 10:30 <strong>PM</strong> (ten thirty) &mdash; 10:30 вечера    <br />
 Ten forty-five &mdash; 10:45  <br />
-Quarter past ten &mdash; четверть десятого                 <br />
-Half [hɑ:f] <strong>past</strong> ten &mdash; половина одиннадцатого (<strong>после</strong> десяти)   <br />
-Quarter to eleven &mdash; без пятнадцати одиннадцать</p>
+Quarter past ten &mdash; <span class="rv">четверть десятого</span>                <br />
+Half [hɑ:f] <strong>past</strong> ten &mdash; <span class="rv">половина одиннадцатого (<strong>после</strong> десяти)</span>   <br />
+Quarter to eleven &mdash; <span class="rv">без пятнадцати одиннадцать</span></p>
 <p>Today I had my breakfast at <strong>about</strong> 9:30. &mdash; <em>Сегодня я обедала <strong>примерно</strong> в 9:30.</em></p>
 <p>Особые случаи:</p>
 <p>12:30 <strong>PM</strong> &mdash; 12:30 дня    <br />
 12:30 <strong>AM</strong> &mdash; половина первого ночи    </p>
-<h2 id="_6">Текущая дата</h2>
+<h2 id="_9">Текущая дата</h2>
 <p>What is the date today? &mdash; <em>Какая сегодня дата?</em></p>
 <p>Today is  the fifth of April. &mdash; <em>Сегодня 5 апреля.</em></p>
-<h2 id="_7">Произвольные дата и время</h2>
+<h2 id="_10">Произвольные дата и время</h2>
 <p><img src="../../pict/at_on_in.png" class="floatRight" /></p>
 
-<p><strong>Yesterday</strong> &mdash; вчера, <strong>today</strong> &mdash; сегодня, <strong>tomorrow</strong> &mdash; завтра.  </p>
-<p><strong>The day before yesterday</strong> &mdash; позавчера.  <strong>The day after tomorrow</strong> &mdash; послезавтра.</p>
-<p>Для указания времени используется предлог <strong>at</strong>.</p>
+<p><strong>Yesterday</strong> &mdash; <span class="rv">вчера</span>, <strong>today</strong> &mdash; <span class="rv">сегодня</span>, <strong>tomorrow</strong> &mdash; <span class="rv">завтра.</span>  </p>
+<p><strong>The day before yesterday</strong> &mdash; <span class="rv">позавчера.</span>  <strong>The day after tomorrow</strong> &mdash; <span class="rv">послезавтра.</span></p>
+<p>Для указания времени используется предлог <span class="rv"><strong>at</strong>.</span></p>
 <p>What time will we meet tomorrow? &mdash; <em>В какое время мы встретимся завтра?</em></p>
 <p>Tomorrow we'll meet <strong>at</strong> seven o'clock. &mdash; <em>Завтра мы встретимся в семь часов.</em></p>
 <p>It started raining <strong>at</strong> 2pm and it stopped at about fife. &mdash; <em>Дождь начался в 2 часа дня и 
 закончился около 5-ти.</em></p>
-<p>При указании дней  используется предлог <strong>on</strong>.</p>
+<p>При указании дней  используется предлог <span class="rv"><strong>on</strong>.</span></p>
 <p>We celebrate the New Year <strong>on</strong> January 1st. &mdash; <em>Мы празднуем новый год 1 января.</em></p>
 <p>I didn't wash the cat on Monday, I'm gonna do it <strong>on</strong> Friday. &mdash; <em>Я не мыла кота в понедельник, я 
 собираюсь сделать это в пятницу.</em> </p>
 <p style="clear: both;"></p>
 
-<pre><code>
-</code></pre>
-<p>При указании месяцев, лет и времен года используется предлог <strong>in</strong>.</p>
+<p>При указании месяцев, лет и времен года используется предлог <span class="rv"><strong>in</strong>.</span></p>
 <p>Shakespeare was born <strong>in</strong> fifteen sixty four (1564). &mdash; <em>Шекспир родился в тысяча пятьсот шестьдесят 
 четвертом году.</em></p>
 <p><strong>In</strong> summer it gets dark at nine o'clock. &mdash; <em>Летом темнеет в 9 часов.</em></p>
 <p>I'm gonna fly away <strong>in</strong> September. &mdash; <em>Я улетаю в сентябре.</em></p>
 <hr />
 <p><a name="index_entry_i_4"></a></p>
-<h1 id="_8">Модальные глаголы</h1>
+<h1 id="_11">Модальные глаголы</h1>
 <p>Модальные глаголы, от других отличаются тем, что не могут выражать конкретные действия, а лишь 
 отражают отношение говорящего к этим действиям. </p>
 <p>Типичные модальные глаголы, такие как may, can, must в предложениях выступают как вспомогательные 
@@ -257,14 +340,14 @@ Why <strong>can't</strong> he speak English? &mdash; _Почему он <strong>
 вспомогательный глагол <strong>can</strong> вместо <strong>to do</strong>.</p>
 <p>Рассмотрим каждый глагол по отдельности.</p>
 <h2 id="can">Глагол "Can"</h2>
-<p>Can&mdash;- могу. Выражает возможность (физическую, техническую), способность.
+<p>Can&mdash;- <span class="rv">могу. Выражает возможность (физическую, техническую), способность.</span>
 В некоторых случаях значение может быть немного иным, надо запомнить. </p>
 <p>I can walk but I can't fly. &mdash; <em>Я могу ходить, но я не могу летать.</em>
 We cannot meet tonight because we need to work. &mdash; <em>Мы не можем встретиться сегодня вечером, 
 потому что нам надо работать.</em></p>
 <p>Отрицательные формы <strong>can't</strong>, <strong>cannot</strong>.</p>
 <p>Can I have an apple? &mdash; <em>Можно мне яблоко?</em> Здесь значение скорее дозволенности, разрешения.</p>
-<p>В прошедшем времени глагол <strong>can</strong> имеет форму <strong>could</strong>. </p>
+<p>В прошедшем времени глагол <strong>can</strong> имеет форму <span class="rv"><strong>could</strong>.</span></p>
 <p><strong>Could</strong> you speak English two years ago? &mdash; <em>Мог ты говорить по английски 2 года назад?</em></p>
 <p>Yes, I could &mdash; да.       No, I could't. &mdash; нет.</p>
 <p>В будущем времени используется выражение <strong>to be able</strong> &mdash; Быть способным, быть в состоянии.
@@ -298,7 +381,7 @@ No I will not, but I lake this beer and I don't want to stop. &mdash; <em>Нет
 <p>I may enter these office today. &mdash; <em>Я могу войти в офис сегодня?</em></p>
 <p>But i will not <em><em>be allowed to</em> do it tomorrow &mdash; </em>Мне нельзя будет сделать это завтра.*</p>
 <h2 id="must">Глагол "Must"</h2>
-<p>Must &mdash; выражает долг, необходимость, а иногда предположение.</p>
+<p>Must &mdash; <span class="rv">выражает долг, необходимость, а иногда предположение.</span></p>
 <p>You <strong>must</strong> know this guy. &mdash;- <em>Ты должен знать этого парня.</em> (В смысле, мы предполагаем, 
 что скорее всего ты его знаешь).</p>
 <p>I <strong>must</strong> go - мне нужно /я должен/ уйти.</p>
@@ -308,26 +391,26 @@ No I will not, but I lake this beer and I don't want to stop. &mdash; <em>Нет
 придется (что-то сделать).</p>
 <p>I <strong>must</strong> work today and I <strong>had to</strong> work yesterday but tomorrow a'll be free. &mdash; <em>Я должен работать
 сегодня и я </em><em>должен был</em><em> работать вчера, но завтра я буду свободен.</em></p>
-<p>I'll not <strong>have to</strong> wash my care. &mdash; <em>Я не <strong>должен</strong> буду мыть мою машину.</em></p>
+<p>I'll not <strong>have to</strong> wash my car. &mdash; <em>Я не <strong>должен</strong> буду мыть мою машину.</em></p>
 <p>I’ll <strong>have to</strong> meet him. –-- <em>Я буду <strong>должен</strong> с ним встретиться.</em> </p>
 <h2 id="should">Глагол "Should"</h2>
-<p>Should &mdash; может использоваться в выражениях (мне следует, я должен). По сравнению с глаголом 
-<strong>must</strong> является более мягким.</p>
+<p>Should &mdash; <!--rvможет использоваться в выражениях (мне следует, я должен). По сравнению с глаголом 
+**must** является более мягким.--></p>
 <p>We <strong>should</strong> go now &mdash; <em>Нам пора /надо/ уходить.</em></p>
 <p>You <strong>should</strong> really be more careful. &mdash; <em>Вам следует быть осторожнее.</em></p>
 <p><strong>Should</strong> I bring anything to the party? &mdash; <em>Мне принести что-нибудь на вечеринку?</em></p>
 <h2 id="would-like">Глагол "would like"</h2>
-<p><strong>would like</strong> &mdash; переводится как, мне бы хотелось. Используется очень часто для обеспечения должного 
-уровня вежливости.</p>
+<p><strong>would like</strong> &mdash; переводится как, <span class="rv">мне бы хотелось. Используется очень часто для обеспечения должного 
+уровня вежливости.</span></p>
 <p><strong>Would you like</strong> a cup of coffee? &mdash; <em>Не желаете ли чашечку кофе?</em></p>
 <p>I <strong>would like</strong> to go home. &mdash;- <em>Мне бы хотелось поехать /пойти/ домой.</em></p>
 <h2 id="need">Глагол "need"</h2>
-<p><strong>Need</strong> &mdash; надобность или нужда. Он может использоваться с дополнением.</p>
+<p><span class="rv"><strong>Need</strong></span> &mdash; <span class="rv">надобность или нужда. Он может использоваться с дополнением.</span></p>
 <p>I <strong>need</strong> to go &mdash; <em>Мне надо идти.</em></p>
 <p>I <strong>need</strong> same more time to finish is job. &mdash; <em>Мне нужно сколько-то времени, чтобы закончить работу.</em></p>
 <p>It <strong>needs to</strong> be done carefully. &mdash; <em>Это должно быть сделано с осторожностью.</em></p>
 <h2 id="let">Глагол "let"</h2>
-<p>Глагол <strong>let</strong> добавляет значение разрешения, позволения, предложения.</p>
+<p>Глагол <strong>let</strong> добавляет значение <span class="rv">разрешения, позволения, предложения.</span></p>
 <p>Live and let live. &mdash; <em>Живи и позволяй жить другим.</em></p>
 <p>После глагола "let" инфинитив применяется без частицы "to".</p>
 <p><a href="https://www.youtube.com/watch?v=QDYfEBY9NM4&amp;ab_channel=TheBeatles-Topic">Let it be</a> &mdash;
@@ -343,7 +426,7 @@ No I will not, but I lake this beer and I don't want to stop. &mdash; <em>Нет
 <p>Hmm, let me think... Well, it's clear! I am! &mdash; <em>Дай мне подумать. А, ну это понятно! Я!</em></p>
 <p>I will respond to you later, <strong>let's say</strong>, on Tuesday next week. &mdash; <em>Я отвечу вам позже, </em><em>скажем</em><em>, 
 во вторник на следующей неделе.</em></p>
-<h2 id="_9">Другие глаголы со значением модальности</h2>
+<h2 id="_12">Другие глаголы со значением модальности</h2>
 <p>Ряд глаголов выражают отношение к действиям выраженными другими глаголами. По смыслу они могут 
 являться модальными, однако формально таковыми не являются.</p>
 <p>I <strong>want to</strong> eat. &mdash; <em>Я <strong>хочу</strong> есть.</em></p>
@@ -369,7 +452,7 @@ No I will not, but I lake this beer and I don't want to stop. &mdash; <em>Нет
 <p>Yes, we are <strong>gonna</strong> dance today. &mdash; <em>Да, мы собираемся танцевать сегодня.</em></p>
 <hr />
 <p><a name="index_entry_i_8"></a></p>
-<h2 id="_10">Прямое и косвенное дополнения</h2>
+<h2 id="_13">Прямое и косвенное дополнения</h2>
 <p><strong>Прямое дополнение</strong> выражает действие направленное на предмет непосредственно. Глаголы выражающие
 такое действие называются <em>переходными</em> и требуют дополнения в винительном падеже (без предлога).</p>
 <p>I love <strong>my cat</strong> </p>
@@ -390,56 +473,115 @@ No I will not, but I lake this beer and I don't want to stop. &mdash; <em>Нет
 <p>Will you introduce <strong>me</strong> <em>to your friend</em>? &mdash; <em>Ты представишь <strong>меня</strong> <em>своему другу</em>?</em></p>
 <hr />
 <p><a name="index_entry_i_9"></a></p>
-<h1 id="_11">Глаголы восприятия</h1>
+<h1 id="_14">Глаголы состояния</h1>
+<table>
+<thead>
+<tr>
+<th>Глагол</th>
+<th>Перевод</th>
+<th>Пример употребления</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>to agree</td>
+<td>соглашаться</td>
+<td>I didn't like the plan, but I had to agree. — Мне не понравился план, но пришлось согласиться.</td>
+</tr>
+<tr>
+<td>to doubt</td>
+<td>сомневаться</td>
+<td>Mom is the only one who never doubted me. — Мама — единственная, кто никогда не сомневался во мне.</td>
+</tr>
+<tr>
+<td>to dislike</td>
+<td>не любить</td>
+<td>I don't understand why your parents dislike me. — Не понимаю, почему твои родители меня не любят.</td>
+</tr>
+<tr>
+<td>to prefer</td>
+<td>предпочитать</td>
+<td>Ralph prefers doing things his way. — Ральф предпочитает делать все по-своему.</td>
+</tr>
+<tr>
+<td>to wish</td>
+<td>желать</td>
+<td>I wish you good luck. — Желаю удачи.</td>
+</tr>
+<tr>
+<td>to smell</td>
+<td>чувствовать запах</td>
+<td>I smelled tangerines and New Year’s Eve as soon as I walked in. — Я почувствовала запах мандаринов и Нового года, как только вошла.</td>
+</tr>
+<tr>
+<td>to taste</td>
+<td>чувствовать вкус</td>
+<td>You can taste a hint of chocolate in these cookies. — В этом печенье чувствуется привкус шоколада.</td>
+</tr>
+<tr>
+<td>to belong</td>
+<td>принадлежать</td>
+<td>This house belongs to our cousins. — Этот дом принадлежит нашим кузенам.</td>
+</tr>
+<tr>
+<td>to weigh</td>
+<td>весить</td>
+<td>This bag of flour weighs three kilograms. — Этот мешок муки весит три килограмма.</td>
+</tr>
+</tbody>
+</table>
+<hr />
 <p><a name="index_entry_i_10"></a></p>
-<h2 id="_12">Зрительное восприятие</h2>
-<p>see (saw, seen) &mdash; видеть (видел, увиденный)</p>
+<h1 id="_15">Глаголы восприятия</h1>
+<p><a name="index_entry_i_11"></a></p>
+<h2 id="_16">Зрительное восприятие</h2>
+<p><span class="rv">see</span> (<span class="rv">saw</span>, <span class="rv">seen</span>) &mdash; видеть (видел, увиденный)</p>
 <p>I can see you. &mdash; Я могу видеть тебя.    <br />
 Have you ever seen the rain? &mdash; Ты когда-нибудь видел дождь?</p>
-<p>look &mdash; смотреть, в зависимости от контекста может принимать другие значения.</p>
+<p><span class="rv">look</span> &mdash; смотреть, в зависимости от контекста может принимать другие значения.</p>
 <p>I'm looking <strong>at</strong> you. &mdash; Я смотрю на тебя.    <br />
 You are looking good! &mdash; Ты <strong>выглядишь</strong> прекрасно!       <br />
 A month ago I was looking <strong>for</strong> new students. &mdash; Месяц назад я <strong>искала</strong> новых учеников.  <br />
 Yesterday I looked <strong>after</strong> your children. Can you look <strong>after</strong> mine today? &mdash; Вчера я 
 <strong>присматривала</strong> за твоими детьми. Можешь сегодня <strong>посмотреть</strong> за моими?      </p>
-<p>a look &mdash; взгляд</p>
+<p><span class="rv">a look</span> &mdash; взгляд</p>
 <p>I have a problem with my computer, can you <strong>take a look</strong>? &mdash; У меня проблема с компьютером, можешь 
 посмотреть? (в смысле, только посмотреть и ничего больше)</p>
-<p>watch &mdash; смотреть (в смысле рассматривать)</p>
+<p><span class="rv">watch</span> &mdash; смотреть (в смысле рассматривать)</p>
 <p>Do you want to watch a movie? &mdash; Ты хочешь посмотреть фильм?     </p>
-<p><a name="index_entry_i_11"></a></p>
-<h2 id="_13">Восприятие на слух</h2>
-<p>listen &mdash; слушать           </p>
+<p><a name="index_entry_i_12"></a></p>
+<h2 id="_17">Восприятие на слух</h2>
+<p><span class="rv">listen</span> &mdash; слушать           </p>
 <p>I love listening <strong>to</strong> you. &mdash; Я люблю слушать тебя.  </p>
-<p>hear (heard, heard) &mdash; слушать</p>
+<p><span class="rv">hear</span> (<span class="rv">heard</span>, <span class="rv">heard</span>) &mdash; слышать</p>
 <p>We heard the sounds of music today. &mdash; Мы сегодня слышали звуки музыки.    <br />
 I tried to listen, but I didn't hear. &mdash; Я пытался слушать, но не услышал.</p>
 <hr />
-<p><a name="index_entry_i_12"></a></p>
-<h1 id="_14">Глаголы говорения</h1>
-<p>speak (spoke, spoken) &mdash; говорить (чаще используется в смысле способности) </p>
+<p><a name="index_entry_i_13"></a></p>
+<h1 id="_18">Глаголы говорения</h1>
+<p><span class="rv">speak</span> (<span class="rv">spoke</span>, <span class="rv">spoken</span>) &mdash; говорить (чаще используется в смысле способности) </p>
 <p>Do you speak English? &mdash; Вы говорите по-английски?             <br />
 public speaking &mdash; публичное выступление</p>
-<p>say (said, said) &mdash; сказать (чаще, как факт произнесения чего-то)</p>
+<p><span class="rv">say</span> (<span class="rv">said</span>, <span class="rv">said</span>) &mdash; сказать (чаще, как факт произнесения чего-то)</p>
 <p>I said I was hungry. &mdash; Я сказал, что хочу кушать.    <br />
 What did you say? &mdash; Что ты сказал?</p>
-<p>tell (told, told) &mdash; сказать (в смысле рассказать, сообщить)</p>
+<p><span class="rv">tell</span> (<span class="rv">told</span>, <span class="rv">told</span>) &mdash; сказать (в смысле рассказать, сообщить)</p>
 <p>To tell a story. &mdash; Рассказать историю.  <br />
 Can you tell me about yourself? &mdash; Можешь рассказать о себе?   <br />
 I already told you about that. &mdash; Я уже говорил тебе об этом.    </p>
-<p>talk &mdash; разговаривать (вести диалог, монолог)</p>
+<p><span class="rv">talk</span> &mdash; разговаривать (вести диалог, монолог)</p>
 <p>We need to talk. &mdash; Нам надо поговорить.     <br />
 We did not talk yesterday. — Мы не разговаривали вчера.    </p>
-<p>ask &mdash; спрашивать, просить</p>
+<p><span class="rv">ask</span> &mdash; спрашивать, просить</p>
 <p>Ask him about the trip. &mdash; Спроси у него о поездке.    <br />
 May I ask you a question? &mdash; Могу я задать тебе вопрос? <br />
 I asked him <strong>for</strong> a pen. &mdash; Я <strong>попросил</strong> у него ручку.  </p>
-<p>answer &mdash; ответ, отвечать</p>
+<p><span class="rv">answer</span> &mdash; ответ, отвечать</p>
 <p>He answered me right away. &mdash; Он мне ответил сразу.  <br />
 Do you want a short answer or a long answer? &mdash; Ты хочешь короткий или длинный ответ?</p>
 <hr />
-<p><a name="index_entry_i_13"></a></p>
-<h1 id="_15">Страны</h1>
+<p><a name="index_entry_i_14"></a></p>
+<h1 id="_19">Страны</h1>
 <p>Также см. <a href="https://youtu.be/HrWHEXeElNY?t=654">здесь</a>.</p>
 <table>
 <thead>
@@ -550,8 +692,8 @@ the USSR (the Union of the Soviet Socialist Republics).</p>
 <p>Where are you from? &mdash; <em>Откуда Вы?</em>      <br />
 I'm from Russia. &mdash; <em>Я из России.</em></p>
 <hr />
-<p><a name="index_entry_i_14"></a></p>
-<h1 id="_16">Климат</h1>
+<p><a name="index_entry_i_15"></a></p>
+<h1 id="_20">Климат</h1>
 <p><strong>Summer</strong> is my favorite <strong>season</strong>. &mdash; <strong>Лето</strong> мое самое любимое <strong>время года</strong>.    <br />
 In summer <strong>it's warm</strong> and there are a lot of different fruits. &mdash; Летом <strong>тепло</strong> и много
 разных фруктов.  <br />

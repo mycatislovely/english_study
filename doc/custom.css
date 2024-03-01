@@ -105,3 +105,20 @@ div.admonition.footnote>* {
     margin-left: 0;
     margin-right: 0;
 }
+
+.no-hor-lines + table td {
+    border-top: none;
+    border-bottom: none;
+    padding-bottom: 0;
+    padding-top: 3px;
+}
+
+.no-hor-lines + table {
+    border-style: solid;
+    border-width: 1px;
+    padding: 7px 14px;
+    border-color: #c1e1ff;
+}
+
+
+

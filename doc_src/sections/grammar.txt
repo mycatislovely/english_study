@@ -171,7 +171,8 @@ much, many    | more                    | the most                   | <!--rv м
 little, few   | less                    | the least                  | <!--rv мало --- меньше --- меньше всего -->
 good          | better                  | the best                   | <!--rv хороший --- лучше --- наилучший--> 
 bad           | worse                   | the worst                  | <!--rv плохой --- хуже --- наихудший--> 
-far           | farther, further        | the farthest, furthest     | <!--rv дальний --- дальше --- самый дальний--> 
+far           | farther, further        | the farthest, the furthest | <!--rv дальний --- дальше --- самый дальний--> 
+late          | later                   | the latest, the last       | <!--rv поздний --- позже --- самый поздний, последний--> 
 
 Примеры:
 
@@ -180,7 +181,7 @@ I want to have **more** money and **less** problems. --- Я хочу иметь 
 I'll do my **best** to finish this work by Monday. --- Я сделаю *все возможное* (букв. "мое лучшее"),
 чтобы закончить эту работу к понедельнику.
 
-
+He was **the last** of the Stuart Kings. --- Он был **последним** королем из династии Стюартов.
 
 
 

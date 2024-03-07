@@ -117,6 +117,9 @@ then | тогда | then I had lunch but now I can help you | тогда я об
 then | затем | first wash your hands and then eat your food | сначала вымой руки, потом кушай
 before | до | come before five o'clock | приходите до пяти часов  
 after | после | after Sunday comes Monday | за воскресеньем следует понедельник
+previous | предыдущий | My previous job was hard. | Моя предыдущая работа была трудная.
+next | следующий | The next week will be warmer than the current one.|  Следующая неделя будет теплее, чем текущая.
+current | текущий | My current job is pleasant and interesting. | Моя нынешняя работа приятная и интересная.
 
 (The) next time --- <!--rv *в следующий раз*-->               
 (The) last time --- <!--rv *в прошлый раз*  -->                       

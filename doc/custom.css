@@ -120,5 +120,8 @@ div.admonition.footnote>* {
     border-color: #c1e1ff;
 }
 
+s {
+    text-decoration-color: red;
+}
 
 

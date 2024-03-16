@@ -620,23 +620,49 @@ Enjoy your **stay**! --- Приятного **пребывания**! (*букв
 
 <p><img src="<!--path pict-->exchange.png" class="floatRight" /></p>
 
-get (got, got) --- брать, получать, добираться, становиться
+**get** (got, got) --- брать, получать, добираться, становиться
 
 WYSIWYG --- What you see is what you **get**. --- Что ты видишь, то ты и **получаешь**.    
 How can I **get to** the airport? --- Как я могу **добраться** до аэропорта?    
 I'm **getting** stronger every day. --- Я **становлюсь** сильнее с каждым днем.
 
-put (put, put) --- класть, ставить
+**put** (put, put) --- класть, ставить
 
-give (gave, given) --- давать, дарить
+I went to the village ['vılıdʒ] and **put** my foot in the river. --- Я поехал в деревню и **опустил** 
+ногу в реку.     
+Don't **put** the basket on the table, **put** it on the floor. --- Не **ставь корзину на стол, 
+**поставь** её на пол.    
+He **put** the money in his wallet and then **put** his hands into his pockets. --- Он **положил** 
+деньги в кошелёк, а затем **засунул** руки в карманы.
 
-take (took, taken) --- брать
+**give** (gave, given) --- давать, дарить (gift --- подарок, дар)
 
-accept --- принимать
+Close your eyes, **give** me your hand. --- Закрой свои глаза, **дай** мне свою руку.         
+<span class="smaller">([The Bangles - Eternal Flame](https://youtu.be/YpGs0grxfvU?si=R-GAshHhbCQXSqog), 
+[слова](https://www.amalgama-lab.com/songs/b/bangles/eternal_flame.html))</span>     
+I was **given** a cat for my birthday. --- На день рождения мне **подарили** кота.
 
-receive --- получать
+**take** (took, taken) --- брать
 
-move [mu:v] --- перемещать, двигать
+He **took** a book from the table. ---  Он **взял** книгу со стола.
+
+**accept** --- принимать
+
+<p style="clear: both;"></p>
+
+<p><img src="<!--path pict-->move.png" class="floatRight" /></p>
+
+I think I will **accept** this invitation. --- Я думаю, я **приму** это приглашение.
+
+**receive** [rı'si:v] --- получать
+
+I was so happy when I **received** a letter from my friend. --- Я была так счастлива, когда 
+**получила** письмо от друга.
+
+**move** [mu:v] --- перемещать, двигать
+
+Can you please help me to **move** the sofa from this corner to that corner. --- Можешь помочь мне 
+**передвинуть** диван из этого угла в тот угол?
 
 <p style="clear: both;"></p>
 

@@ -1,0 +1,53 @@
+<!--VARIABLES {"title": "Темы", "SORT_ORDER": "083", "code": "topics"}-->
+
+[TOC]
+
+----------------------------------------------------------------------------------------------------
+# My day
+
+## Present Simple 
+
+Usually, I **get up** at 7 o'clock. Then I **take** a shower and **have** my coffee with milk and a 
+big sandwich, or two small sandwiches. After that I **dress** myself and **go** to work where I 
+**teach** children, because I**'m** a primary school teacher. After work I **go** home and **have** 
+my lunch. Then I **cook**food and **do** private tutoring sometimes. In the evening, I often 
+**study** English, **have** a bath, **clean** my teeth and **go** to bed.
+
+
+## Past Simple 
+
+A year ago, I usually **got up** at 7 o'clock. Then I **took** a shower and **had** my coffee with 
+milk and a big sandwich, or two small sandwiches. After that I **dressed** myself and **went** 
+to work where I **taught** children, because I**'m** a primary school teacher. After work I **went** 
+home and **had** my lunch. Then I **cooked** food and **did** private tutoring sometimes. In the 
+evening, I often **studied** English, **had** a bath, **cleaned** my teeth and **went** to bed.
+
+
+## Future Simple 
+
+Tomorrow, I**'ll get up** at 7 o'clock. Then I**'ll take** a shower and **have** my coffee with 
+milk and a big sandwich, or two small sandwiches. After that I**'ll dress** myself and **will go**
+to work where I**'ll teach** children, because I**'m** a primary school teacher. After work 
+I**'ll go** home and **will have** my lunch. Then I**'ll cook** some food and **do** private 
+tutoring sometimes. In the evening I**'ll** probably **study** English, **have** a bath, **clean**
+my teeth and **go** to bed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

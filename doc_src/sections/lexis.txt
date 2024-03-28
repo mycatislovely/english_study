@@ -20,16 +20,19 @@ Excuse me, can you give me your pen please? --- Извините, можете �
 
 | Слово         |    Перевод |   Пример |   Перевод примера           
 |---------------|------------|----------|---------------------
-| what?         |    что?    | What do you do? |   Что ты делаешь?          
-| who?          |    кто?    | Who is that guy? |   Кто тот парень?          
-| whom?         |    кому/кого?    | Whom are you waiting? |   Кого ты ждешь?          
-| whose?        |    чей?    | Whose is this cat? |   Чей это кот?          
-| where?        |    где?    | Where are you? |   Ты где?          
-|               |    куда?   | Where do you go? |   Куда ты идешь?          
-|               |    откуда? | Where are you from? |   Откуда ты?          
-| when?         |    когда?  | When will you come back? |   Когда ты вернешься?          
-| why?          |    почему/зачем?    | Why am I so beautiful? |   Почему я такая красивая?          
-| which?        |    который?    | Which of these autos is yours? |   Который из автомобилей твой?          
+| what?         |  что?      | What do you do?       |   Что ты делаешь?          
+| who?          |  кто?      | Who is that guy?      |   Кто тот парень?          
+| whom?         |  кому/кого?| Whom are you waiting? |   Кого ты ждешь?          
+| whose?        |  чей?      | Whose is this cat?    |   Чей это кот?          
+| where?        |  где?      | Where are you?        |   Ты где?          
+|               |  куда?     | Where do you go?      |   Куда ты идешь?          
+|               |  откуда?   | Where are you from?   |   Откуда ты?          
+| when?         |  когда?    | When will you come back? |   Когда ты вернешься?          
+| why?          |  почему/зачем?| Why am I so beautiful? |   Почему я такая красивая?          
+| which?        |  который?  | Which of these autos is yours? |   Который из автомобилей твой?          
+| how?          |  как?      | How are you feeling today? | Как ты себя чувствуешь сегодня?          
+| how many?     |  как много?| How many years have passed since then? | Сколько лет прошло с тех пор?          
+| how much?     |  сколько?  | How much time will it take? | Сколько времени это займет??          
 
 
 ----------------------------------------------------------------------------------------------------
@@ -320,6 +323,17 @@ Shakespeare was born **in** fifteen sixty four (1564). --- *Шекспир ро�
 **In** summer it gets dark at nine o'clock. --- *Летом темнеет в 9 часов.*
 
 I'm gonna fly away **in** September. --- *Я улетаю в сентябре.*
+
+
+## Полезные выражения
+
+**take** --- занимать (время)
+
+--- How mach (time) will it **take** (us) to get to the museum? --- Сколько (времени) **потребуется** 
+(нам), чтобы добраться до музея?      
+--- It usually **take** thirty minutes, but today the traffic is high so it my **take** longer. ---
+Обычно это **занимает** тридцать минут, но сегодня движение большое, поэтому это может **занять** 
+больше времени.
     
 ----------------------------------------------------------------------------------------------------
 <!--i ["модальные глаголы"]-->
@@ -934,6 +948,28 @@ employee --- наемный работник
 employment --- трудоустройство      
 employed --- трудоустроенный            
 unemployed --- безработный             
+
+----------------------------------------------------------------------------------------------------
+<!--i ["цвета"]-->
+# Цвета
+
+<span style="background-color: white;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> white --- белый    
+<span style="background-color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> black --- черный    
+<span style="background-color: gray;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> gray --- серый    
+<span style="background-color: red;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> red --- красный    
+<span style="background-color: blue;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> blue --- синий, голубой    
+<span style="background-color: lightgreen;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> green --- зеленый    
+<span style="background-color: yellow;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> yellow --- желтый    
+<span style="background-color: brown;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> brown --- коричневый    
+<span style="background-color: orange;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> orange --- оранжевый    
+<span style="background-color: pink;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> pink --- розовый    
+<span style="background-color: purple;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> purple --- фиолетовый 
+   
+<span style="background-color: lightblue;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> light blue --- светло-синий, голубой    
+<span style="background-color: darkgreen;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> dark green --- темно-зеленый    
+
+
+
 
 ----------------------------------------------------------------------------------------------------
 # Просто полезные выражения

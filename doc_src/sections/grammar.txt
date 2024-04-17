@@ -55,7 +55,8 @@ They **are** also tall. --- *Они также высокие.*
 Is this **my** cat? No this is not. This is your winter hat. You probable shouldn't drink so much. --- 
 _Это **мой** кот? Нет, это не твой. Это твоя зимняя шапка. Наверно, тебе не следует пить так много._
 
-Is this cat **mine**? No he is not. He is **mine**.--- _Этот кот **мой**? Нет, он не твой. Он **мой**._
+Is this cat **mine**? No he is not. He is **mine**. Bat you can play with him.--- _Этот кот **мой**? 
+Нет, он не твой. Он **мой**. Но ты можешь с ним играть._
 
 This is **my** backpack. — Whose backpack? **Mine**. --- _Это **мой** рюкзак. — Рюкзак чей? **Мой**._ 
 

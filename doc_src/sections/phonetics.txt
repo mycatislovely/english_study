@@ -1,4 +1,4 @@
-<!--VARIABLES {"title": "Фонетика", "SORT_ORDER": "070", "code": "phonetics"}-->
+<!--VARIABLES {"title": "Фонетика", "SORT_ORDER": "020", "code": "phonetics"}-->
 
 [TOC]
 

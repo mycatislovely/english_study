@@ -1,4 +1,4 @@
-<!--VARIABLES {"title": "Орфография", "SORT_ORDER": "060", "code": "spelling"}-->
+<!--VARIABLES {"title": "Орфография", "SORT_ORDER": "030", "code": "spelling"}-->
 
 [TOC]
 

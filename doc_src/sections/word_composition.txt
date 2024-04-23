@@ -1,4 +1,4 @@
-<!--VARIABLES {"title": "Словообразование", "SORT_ORDER": "050", "code": "word_composition"}-->
+<!--VARIABLES {"title": "Словообразование", "SORT_ORDER": "040", "code": "word_composition"}-->
 
 [TOC]
 

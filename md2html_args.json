@@ -14,6 +14,12 @@
             "page-flows": ["sections", "nav"] },
         { "input-glob": "sections/*.txt", "page-flows": ["sections", "nav"], 
             "title-from-variable": "title", "code-from-variable": "code", 
+            "sort-by-variable": "SORT_ORDER" },
+        { "input-glob": "sections/lexis/*.txt", "page-flows": ["lexis", "nav"], 
+            "title-from-variable": "title", "code-from-variable": "code", 
+            "sort-by-variable": "SORT_ORDER" },
+        { "input-glob": "sections/others/*.txt", "page-flows": ["others", "nav"], 
+            "title-from-variable": "title", "code-from-variable": "code", 
             "sort-by-variable": "SORT_ORDER" }
     ],
     "plugins": {
@@ -47,6 +53,8 @@
                 { "link": "https://github.com/mycatislovely/english_study", "title": "GitHub", "external": true }
             ],            
             "sections": { "groups": ["sidebar"] },            
+            "lexis": { "groups": ["sidebar"], "title": "Лексика" },            
+            "others": { "groups": ["sidebar"], "title": " " },            
             "useful_links": { "title": "Useful links", "groups": ["sidebar"], "items": [
             ]}
         },

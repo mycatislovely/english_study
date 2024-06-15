@@ -32,6 +32,50 @@ I**'ll go** home and **will have** my lunch. Then I**'ll cook** some food and **
 tutoring sometimes. In the evening I**'ll** probably **study** English, **have** a bath, **clean**
 my teeth and **go** to bed.
 
+----------------------------------------------------------------------------------------------------
+# Biography
+
+I was born --- я родилась (была рождена)
+
+<table><thead>
+<tr><th>Предложение</th><th>Перевод</th></tr>
+</thead><tbody>
+<tr>
+<td>One beautiful girl was born in a small town in the central part of the country.</td>
+<td>Одна красивая девочка родилась в небольшом городке в центральной части страны.</td>
+</tr><tr>
+<td>Her mother was a doctor. She worked in a hospital.</td>
+<td>Её мама была врачом. Она работала в больнице.</td>
+</tr><tr>
+<td>Her father was a builder.</td>
+<td>Её папа был строителем.</td>
+</tr><tr>
+<td>When the girl was seven she went to school</td>
+<td>Когда девочке исполнилось семь, она пошла в школу.</td>
+</tr><tr>
+<td>At school she liked mathematics and drawing.</td>
+<td>В школе ей нравилась математика и рисование.</td>
+</tr><tr>
+<td>But literature and history were difficult for her.</td>
+<td>Но литература  и история для нее были трудными.</td>
+</tr><tr>
+<td>After school, she entered a university to become a programmer.</td>
+<td>После школы она поступила в университет, чтобы стать программистом.</td>
+</tr><tr>
+<td>There she met her future husband.</td>
+<td>Там она познакомилась со своим будущим мужем.</td>
+</tr><tr>
+<td>Up till now they have been living happily with their two children.</td>
+<td>До сих пор они живут счастливо со своими двумя детьми.</td>
+</tr><tr>
+<td>They have a big comfortable house and they often travel to different countries..</td>
+<td>У них есть большой удобный дом и они часто путешествуют по разным странам.</td>
+</tr>
+
+
+
+</tbody></table>
+
 
 
 

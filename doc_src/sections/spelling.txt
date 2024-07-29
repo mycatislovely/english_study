@@ -58,6 +58,8 @@ Yy [wai]  | Zz [zed]  |
 | sh             | [ʃ]  | fish, she, shower
 | th             | [ð]  | this, that
 |                | [θ]  | method, thousand ['θaʋz(ə)nd], think
+| q              | [kw] | quick  [kwık], request [rı'kwest]
+|                | [k]  | mosquito [mə'ski:t|əʋ], mosque [mɒsk]
 | ph             | [f]  | phone, philosophy [fı'lɒsəfı]
 | ck             | [k]  | back, cocktail 
 | ng             | [ŋ]  | listening, song, strong 

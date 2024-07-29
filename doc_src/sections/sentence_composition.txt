@@ -683,7 +683,7 @@ I'd  explain if only I could. --- Я бы объяснил, если бы мог
 
 **I'd** = **I would**.
 
-Even **if** my cat were stupid I **would** still love him. --- *Даже если бы мой кот был глупый, я все равно 
+Even **if** my cat **were** stupid I **would** still love him. --- *Даже если бы мой кот был глупый, я все равно 
 его любила бы.*
 
 !!! note
@@ -722,10 +722,16 @@ Something is wrong with the schools you went to, and the textbooks you used. ---
  
 Something is wrong with the schools **that** you went to, and the textbooks **that** you used. 
 
+----------------------------------------------------------------------------------------------------
+# Выделение подлежащего
 
+Маша съела кашу. Кашу съела Маша.
 
-
-
+Во втором предложении явно различим акцент на исполнителя (Маша). В английском языке порядок слов 
+фиксирован, поэтому такой прием перестановки использовать нельзя. Поэтому первый вариант предложения 
+строится обычным образом: Masha has eaten the porridge.
+Для второго варианта используется особая конструкция: It is Masha why has eaten the porridge.
+По другому это предложение можно перевести так: Именно Маша съела кашу.
 
 
 
